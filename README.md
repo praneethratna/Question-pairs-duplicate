@@ -1,5 +1,5 @@
 # Question-pairs-duplicate
-1.Need to add predict function
+1.improve predict function
 
 2.Using pre trained Glove vectors should also be tried
 
