@@ -15,4 +15,10 @@ This Repo contains the model for Identification of Duplicate Questions using ker
 
 
 
-Further
+## Further Inference
+<ol type = "1">
+  <li>This model still has the problem of increasing validation loss after about 2-3 epochs ie the model is overfitting a bit but validation accuracy is fine.</li>
+  <li>Pre trained Embeddings like GloVe can be tried to decrease validation loss.</li>
+  <li>Text preprocessing has not been done properly which also needs to be handled.</li>
+  <li>A different model architecture without Attention can also be tried.</li>
+</ol>  
