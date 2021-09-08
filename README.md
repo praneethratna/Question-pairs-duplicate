@@ -12,7 +12,9 @@ Here are the top 5 data values:
 <div align='center'>
   <img src = "https://github.com/praneethratna/Question-pairs-duplicate/blob/master/data-image.png" alt = "drawing"/></br>
 </div>
+
 Information taken from https://www.kaggle.com/quora/question-pairs-dataset
+
 ## Model Architechture
 <div align='center'>
   <img src = "https://github.com/praneethratna/Question-pairs-duplicate/blob/master/model.jpeg" alt = "drawing" width = "900" height = "900"/></br>
