@@ -15,11 +15,10 @@ Here are the top 5 data values:
 
 Information taken from https://www.kaggle.com/quora/question-pairs-dataset
 
-## Model Architechture
+## Model Summary
 <div align='center'>
-  <img src = "https://github.com/praneethratna/Question-pairs-duplicate/blob/master/model.jpeg" alt = "drawing" width = "900" height = "900"/></br>
+  <img src = "https://github.com/praneethratna/Question-pairs-duplicate/blob/master/summary.png" alt = "drawing"/></br>
 </div>
-
 <hr>
 
 ## Further Inference
