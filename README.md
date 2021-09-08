@@ -19,7 +19,6 @@ Information taken from https://www.kaggle.com/quora/question-pairs-dataset
 <div align='center'>
   <img src = "https://github.com/praneethratna/Question-pairs-duplicate/blob/master/summary.png" alt = "drawing"/></br>
 </div>
-<hr>
 
 ## Further Inference
 <ol type = "1">
