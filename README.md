@@ -20,6 +20,15 @@ Information taken from https://www.kaggle.com/quora/question-pairs-dataset
   <img src = "https://github.com/praneethratna/Question-pairs-duplicate/blob/master/summary.png" alt = "drawing"/></br>
 </div>
 
+## Model's Training and Testing accuracy
+After training with 70 % , 20 % , 10% training , testing and validation split respectively the results are as shown below:
+
+<ul style="list-style-type:lower-alpha">
+  <li> Training accuracy = 88.42 % </li>
+  <li> Testing accuracy = 74.47 % </li>
+  <li> Validation accuracy = 75.14 % </li>
+</ul>
+
 ## Further Inference
 <ol type = "1">
   <li>This model still has the problem of increasing validation loss after about 2-3 epochs ie the model is overfitting a bit but validation accuracy is fine.</li>
