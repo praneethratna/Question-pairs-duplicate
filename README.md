@@ -23,11 +23,11 @@ Information taken from https://www.kaggle.com/quora/question-pairs-dataset
 ## Model's Training and Testing accuracy
 After training with 70 % , 20 % , 10% training , testing and validation split respectively the results are as shown below:
 
-<ul style="list-style-type:lower-alpha">
+<ol style="list-style-type:disc">
   <li> Training accuracy = 88.42 % </li>
   <li> Testing accuracy = 74.47 % </li>
   <li> Validation accuracy = 75.14 % </li>
-</ul>
+</ol>
 
 ## Further Inference
 <ol type = "1">
