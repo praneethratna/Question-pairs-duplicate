@@ -6,7 +6,7 @@ This Repo contains the model for Identification of Duplicate Questions using ker
 
 ## Model Architechture
 <div align='center'>
-  <img src = "https://github.com/praneethratna/Question-pairs-duplicate/blob/master/model.jpeg" alt = "drawing" width = "910" height = "910"/></br>
+  <img src = "https://github.com/praneethratna/Question-pairs-duplicate/blob/master/model.jpeg" alt = "drawing" width = "900" height = "900"/></br>
 </div>
 
 <hr>
