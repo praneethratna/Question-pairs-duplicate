@@ -1,5 +1,5 @@
 # Question pairs duplicate Identification
-This Repo contains the model for Identification of Duplicate Questions using keras and attention.
+This repository contains the model for Identification of Duplicate Questions using keras and attention.
 
 ## About the dataset
 
