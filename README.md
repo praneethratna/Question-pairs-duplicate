@@ -10,14 +10,14 @@ There are over 400,000 lines of potential question duplicate pairs. Each line co
 
 Here are the top 5 data values:
 <div align='center'>
-  <img src = "https://github.com/praneethratna/Question-pairs-duplicate/blob/master/data-image.png" alt = "drawing"/></br>
+  <img src = "https://github.com/praneethratna/Question-pairs-duplicate/blob/master/data-image.png" alt = "top_5_data"/></br>
 </div>
 
 Information taken from https://www.kaggle.com/quora/question-pairs-dataset
 
 ## Model Summary
 <div align='center'>
-  <img src = "https://github.com/praneethratna/Question-pairs-duplicate/blob/master/summary.png" alt = "drawing"/></br>
+  <img src = "https://github.com/praneethratna/Question-pairs-duplicate/blob/master/summary.png" alt = "summary"/></br>
 </div>
 
 ## Model's Training and Testing accuracy
