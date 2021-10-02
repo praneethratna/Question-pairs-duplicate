@@ -13,7 +13,7 @@ Here are the top 5 data values:
   <img src = "https://github.com/praneethratna/Question-pairs-duplicate/blob/master/data-image.png" alt = "top_5_data"/></br>
 </div>
 
-Information taken from https://www.kaggle.com/quora/question-pairs-dataset
+Information taken from https://www.kaggle.com/quora/question-pairs-dataset.
 
 ## Model Summary
 <div align='center'>
